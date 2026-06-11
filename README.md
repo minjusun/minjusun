@@ -10,7 +10,7 @@ I'm a Computer Science student interested in software development, data science,
 ## Technologies
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,mysql,c,css&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,mysql,c,css)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,emacs,raspberrypi,vscode,notion,git&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,emacs,raspberrypi,vscode,notion,git)](https://skillicons.dev)
