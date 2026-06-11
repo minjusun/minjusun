@@ -14,3 +14,9 @@ I'm a Computer Science student interested in software development, data science,
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,emacs,raspberrypi,vscode,notion,git)](https://skillicons.dev)
+
+## Let's Connect
+- LinkedIn: [linkedin.com/in/minjuSung]
+- Email: [sung.minj@northeastern.edu]
+
+Thanks for stopping by!
