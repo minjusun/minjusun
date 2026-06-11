@@ -1,4 +1,4 @@
-# Hi! I'm Minju
+# Hi! I'm Minju 🌟
 
 I'm a Computer Science student interested in software development, data science, and machine learning. 
 
