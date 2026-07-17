@@ -13,7 +13,7 @@ I'm a Computer Science student interested in software development, data science,
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,mysql,c,css)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,emacs,raspberrypi,vscode,notion,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,emacs,raspberrypi,vscode,notion,git,supabase)](https://skillicons.dev)
 
 ## Let's Connect
 - LinkedIn: [linkedin.com/in/minjuSung]
